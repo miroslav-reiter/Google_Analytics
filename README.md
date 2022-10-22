@@ -62,8 +62,8 @@ Na čo si dať pozor v Google Analytics? (Robíme audit Google Analytics účtov
 9. Nepoužívaš Google Solution Gallery
 10. Myslíš si, že GA vyrieši všetko a zabúdaš na iné marketingové nástroje
 
-### Zoznam chýb z prípadovej štúdie
-![image](https://user-images.githubusercontent.com/24510943/197352220-6f551a9c-d74e-40cd-b8dd-07a1bd36b713.png)
+### Zoznam chýb z [prípadovej štúdie](https://www.researchgate.net/publication/357871615_Google_Analytics_Best_Practices_in_Online_Business)
+![image](https://user-images.githubusercontent.com/24510943/197352624-676f39b3-0e94-40ca-aa16-1b8a1344b9e3.png)
 
 ### Odporúčania pre Google Analytics
 ![image](https://user-images.githubusercontent.com/24510943/197352265-51b291c3-93b5-44d6-9844-9314e1e9f99b.png)
