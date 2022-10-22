@@ -23,6 +23,19 @@ google.com/analytics/
 7. Čo sa im nepáči a naopak, ktorý obsah majú radi?
 8. Vykonávajú návštevníci konverziu, ktorú od nich chceme?
 
+### GA4 Otázky (Štatistiky)
+- **Základná výkonnosť** 
+  -  Koľko používateľov som mal(a) za posledný týždeň? (okt 14–20, 2022, Používatelia: 15 tis.) 
+  -  Ktoré moje stránky a obrazovky dosahujú najviac zobrazení?  
+  -  V ktoré dni získavam najviac používateľov?  
+  -  Koľko je nových používateľov v tomto roku? (jan 1–okt 20, 2022, Noví používatelia: 703 tis. )
+  -  Ktoré udalosti vykonalo najviac používateľov?  
+- **Demografické údaje**
+- **Akvizícia používateľov**
+- **Analýza návštevnosti**
+- **Technológia**
+- **Elektronický obchod**
+
 ### Ako funguje Google Analytics?
 - Funguje na metóde značkovania stránok
 - JavaScript
@@ -34,7 +47,6 @@ google.com/analytics/
 ![image](https://user-images.githubusercontent.com/24510943/197352111-1d22b92b-8b54-43f2-84b3-657c59cc3313.png)
 
 ![image](https://user-images.githubusercontent.com/24510943/197352156-181fd740-1f44-430e-b7dd-88f273c13b16.png)
-
 
 ## 🤦 Google Analytics Faily a Audit (Opero a Google)
 Na čo si dať pozor v Google Analytics? (Robíme audit Google Analytics účtov)
@@ -53,7 +65,8 @@ Na čo si dať pozor v Google Analytics? (Robíme audit Google Analytics účtov
 ### Zoznam chýb z prípadovej štúdie
 ![image](https://user-images.githubusercontent.com/24510943/197352220-6f551a9c-d74e-40cd-b8dd-07a1bd36b713.png)
 
-
+### Odporúčania pre Google Analytics
+![image](https://user-images.githubusercontent.com/24510943/197352265-51b291c3-93b5-44d6-9844-9314e1e9f99b.png)
 
 ## 📈 YouTube video záznamy z kurzov
 [YouTube kanál IT Academy](https://www.youtube.com/c/IT-AcademySK) 
