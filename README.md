@@ -1,6 +1,6 @@
 # 📈 Google Analytics (Online Kurzy Google Analytics)
 
-## 📊 Ako na Google Analytics (Impact Hub CZ a Google)
+## 📊 Ako na Google Analytics
 Ako začať efektívne používať Google Analytics?
 
 ### Čo je Google Analytics GA?
